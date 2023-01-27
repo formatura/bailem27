@@ -27,9 +27,13 @@ a {
 body {
     font-family: 'Roboto', sans-serif;
 }
-h1 {
-	font-family: 'Charm', serif;
+@font-face{
+	font-family: 'Jasmine';
+	src: url('../jasmineupc-4.ttf')
+}
 
+h1 {
+	font-family: 'Jasmine', serif;
 }
 
 
